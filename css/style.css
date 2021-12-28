@@ -5,6 +5,7 @@ p {
   text-align: center;
 }
 body {
+  background: radial-gradient(rgb(226, 180, 108) 0%, rgb(226, 214, 197) 100%);
   margin: 60px auto;
   max-width: 500px;
 }
